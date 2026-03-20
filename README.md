@@ -80,5 +80,5 @@ git pull origin main:master
 
 Подробнее: [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
-##Картинка 
+## Картинка 
 <img width="293" height="256" alt="image" src="https://github.com/user-attachments/assets/740132e4-d935-48fe-8a44-fd8429821d49" />
